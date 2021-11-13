@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/Q1blue/c5bf4e34-0302-484c-91e1-49838ff91f4d/a3201bcb-055a-4184-a0b0-e6682de92483/_apis/work/boardbadge/0eeb0fed-02a8-4dc7-a929-68205d50841c)](https://dev.azure.com/Q1blue/c5bf4e34-0302-484c-91e1-49838ff91f4d/_boards/board/t/a3201bcb-055a-4184-a0b0-e6682de92483/Microsoft.RequirementCategory)
 # A-Frame Boilerplate
 
 Boilerplate for creating WebVR scenes with [A-Frame](https://aframe.io).
